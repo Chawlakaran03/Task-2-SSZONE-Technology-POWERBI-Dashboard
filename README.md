@@ -1,4 +1,4 @@
-# Task-2-SSZONE-Technolog-POWERBI-Dashboard-
+# Task-2-SSZONE-Technology-POWERBI-Dashboard-
 ## Dashboard Insights
 ### *Average Y-Kappa: 1.99E-11 (small value)
 ### *Average ChipRate: -2.66E-11 (negative value)
